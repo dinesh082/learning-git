@@ -1,4 +1,5 @@
-body{
-color:red;
-
+function random(){
+  
+  
+  
 }
